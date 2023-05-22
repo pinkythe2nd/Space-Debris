@@ -1,0 +1,35 @@
+﻿  MainStage.cpp
+C:\Users\robin\Downloads\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK\Space Game\Space Game\MainStage.cpp(30,17): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\robin\Downloads\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK\Space Game\Space Game\MainStage.cpp(41,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\robin\Downloads\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK\Space Game\Space Game\MainStage.cpp(48,120): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\robin\Downloads\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK\Space Game\Space Game\MainStage.cpp(53,119): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\robin\Downloads\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK\Space Game\Space Game\MainStage.cpp(78,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\robin\Downloads\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK\Space Game\Space Game\MainStage.cpp(82,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\robin\Downloads\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK\Space Game\Space Game\MainStage.cpp(89,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\robin\Downloads\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK\Space Game\Space Game\MainStage.cpp(93,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\robin\Downloads\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK\Space Game\Space Game\MainStage.cpp(100,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\robin\Downloads\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK\Space Game\Space Game\MainStage.cpp(104,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\robin\Downloads\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK\Space Game\Space Game\MainStage.cpp(266,21): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\robin\Downloads\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK\Space Game\Space Game\MainStage.cpp(273,22): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\robin\Downloads\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK\Space Game\Space Game\MainStage.cpp(299,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\robin\Downloads\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK\Space Game\Space Game\MainStage.cpp(300,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\robin\Downloads\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK\Space Game\Space Game\MainStage.cpp(312,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\robin\Downloads\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK\Space Game\Space Game\MainStage.cpp(313,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\robin\Downloads\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK\Space Game\Space Game\MainStage.cpp(325,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\robin\Downloads\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK\Space Game\Space Game\MainStage.cpp(326,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\robin\Downloads\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK\Space Game\Space Game\MainStage.cpp(365,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\robin\Downloads\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK\Space Game\Space Game\MainStage.cpp(385,55): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\robin\Downloads\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK\Space Game\Space Game\MainStage.cpp(386,55): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\robin\Downloads\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK\Space Game\Space Game\MainStage.cpp(420,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\robin\Downloads\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK\Space Game\Space Game\MainStage.cpp(432,17): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\robin\Downloads\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK\Space Game\Space Game\MainStage.cpp(453,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\robin\Downloads\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK\Space Game\Space Game\MainStage.cpp(465,18): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Space Game.vcxproj -> C:\Users\robin\Downloads\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK CURRENT\1GRAPHICS_COURSEWORK\Space Game\x64\Debug\Space Game.exe
